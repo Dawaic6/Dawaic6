@@ -1,6 +1,26 @@
 
 # 💫 About Me:
-I am Iradukunda Sangwa Cedric, a passionate web developer and lifelong learner. I love solving complex problems and continuously expanding my technical skills.<br><br>As a web developer , I thrive on the challenge of building systems that make a difference. My attention to detail and commitment to innovation drive me to create solutions that not only work efficiently but also make the world a better place.<br><br>Talking about Personal Stuff:<br>👨‍🎓 I'm a third-year Information Systems student at the University of Rwanda<br>👨‍💻 Currently pursuing an apprenticeship at Andela, where I'm enhancing my skills <br>💬 Ask me about anything; I love to work  with others to solve tech problems<br>🌱 I'm currently learning java,next.js and java spring boot <br>👯 I enjoy collaborating with tech enthusiasts on innovative projects<br>📬 How to reach me: [email:iradukundasangwacedic@gmail.com / phone number:+250782446577]
+I am Iradukunda Sangwa Cedric, a passionate web developer and lifelong learner. I love solving complex problems and continuously expanding my technical skills.
+
+As a web developer, I thrive on the challenge of building systems that make a difference. My attention to detail and commitment to innovation drive me to create solutions that not only work efficiently but also improve lives.
+
+## 🔹 Talking about Personal Stuff:
+👨‍🎓 I'm a third-year Information Systems student at the University of Rwanda  
+👨‍💻 Completed an apprenticeship at Andela from February to November, where I enhanced my software development skills  
+👨‍💻 Currently pursuing the **AFTRETEC Web Development Program** to deepen my expertise in full-stack development  
+💻 Experienced full-stack developer specializing in Node.js, Python, FastAPI, JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, and Redux  
+💬 Ask me about anything; I love working with others to solve tech problems  
+👯 I enjoy collaborating with tech enthusiasts on innovative projects  
+📬 How to reach me: [Email: iradukundasangwacedic@gmail.com / Phone: +250782446577]  
+
+## 🎓 Certifications:
+- **JavaScript Algorithms and Data Structures** – FreeCodeCamp  
+- **Networking Basics** – Cisco Academy  
+- **Software Development** – Andela  
+
+## 🌍 Portfolio:
+Check out my portfolio showcasing my experience and projects:  
+[🚀 View Portfolio](https://cedricportifolio.netlify.app/) 
 
 
 ## 🌐 Socials:
